@@ -8,10 +8,9 @@ function soma(a, b){
 }
 console.log(soma(1,5));
 console.log(soma(1,2));
-
 function saudar(nome, idade){
     if (idade === undefined){
-        console.log("olá " + nome);
+        console.log("\n olá " + nome);
     }else{
         console.log("Olá " + nome + " você têm " + idade + " anos " );
     }
