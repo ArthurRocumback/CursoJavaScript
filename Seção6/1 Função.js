@@ -10,8 +10,6 @@ imprimirNoConsole();
 function imprimirNoConsole2(){
     console.log("Teste");
 }
-
-
 function imprimirUmNumero(num){
     console.log("Numero: " + num);
 }
